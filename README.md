@@ -37,3 +37,7 @@ Para ilustrar o funcionamento do Decodificador de Texto, aqui estão alguns exem
 ## Visualização do Projeto
 
 O projeto atualmente está hospedado neste link: https://edu-ardasantana.github.io/encode-decode/
+
+## Badge recebida após a conclusão do projeto:
+![image](https://github.com/edu-ardasantana/encode-decode/assets/97988614/e73528fd-f1b0-454a-9d44-a18bb2fd6e38)
+
