@@ -36,4 +36,4 @@ O Decodificador de Texto oferece as seguintes funcionalidades:
 
 ## Visualização do Projeto
 
-O projeto atualmente está hospedado neste link
+O projeto atualmente está hospedado neste link: https://edu-ardasantana.github.io/encode-decode/
