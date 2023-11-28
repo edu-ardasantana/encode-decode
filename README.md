@@ -27,9 +27,9 @@ O Decodificador de Texto oferece as seguintes funcionalidades:
 
 6. **Botão para Copiar**: Ao aparecer o resultado da operação (criptografia ou descriptografia) ao final da seção existe um botão que ao ser clicado automaticamente copia o texto convertido para a área de transferencia do usuário.
 
-7. ## Exemplo de Uso
+## Exemplo de Uso
 
-8. Para ilustrar o funcionamento do Decodificador de Texto, aqui estão alguns exemplos de entrada e saída:
+Para ilustrar o funcionamento do Decodificador de Texto, aqui estão alguns exemplos de entrada e saída:
 
 - Criptografar: A palavra "gato" é convertida para "gaitober".
 - Descriptografar: A palavra "gaitober" é revertida para "gato".
